@@ -4,7 +4,6 @@
 
 In this report, I present a comprehensive analysis of financial data using Power BI Financial Dashboard. This dashboard gives key stakeholders real-time insights into the organization's financial performance.
 
-
 **Page 1: Headline**
 
 ![Headline Report](https://github.com/rajikudusadewale/Financial-Dashboard/blob/main/Headline.jpg)
